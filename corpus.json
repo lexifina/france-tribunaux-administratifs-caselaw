@@ -8,8 +8,8 @@
   "history": "in-force",
   "coverage": "175843 decisions with text from the DILA base(s) JADE, one file and one commit each, dated the day decided; 675632 citations of law linked to france-law.",
   "history_from": "1873-02-08",
-  "record_to": "2026-11-07",
-  "checked_on": "2026-11-07",
+  "record_to": "2026-11-09",
+  "checked_on": "2026-11-09",
   "record_note": "Court decisions, not laws: every commit is Kind: court. In-force is the day decided. Commits before 1970 are dated 1970-01-01, a second apart; In-force holds the real day.",
   "in_force_trailer": "In-force",
   "correction_trailer": "Corrected",
@@ -23,11 +23,11 @@
     "dataset": "JADE",
     "url": "https://echanges.dila.gouv.fr/OPENDATA/",
     "licence": "Licence Ouverte / Open Licence 2.0 (Etalab)",
-    "updated": "2026-11-07",
-    "last_update": "2026-11-07"
+    "updated": "2026-11-09",
+    "last_update": "2026-11-09"
   },
   "licence": "Licence Ouverte / Open Licence 2.0 (Etalab)",
-  "credit": "Source: DILA, base JADE; producer: Conseil d'État; Licence Ouverte 2.0 (Etalab); last update 2026-11-07",
+  "credit": "Source: DILA, base JADE; producer: Conseil d'État; Licence Ouverte 2.0 (Etalab); last update 2026-11-09",
   "overlay": {
     "path": "judgments/france/national/acts/<path>.jsonl",
     "law_corpus": "france/national/acts"
